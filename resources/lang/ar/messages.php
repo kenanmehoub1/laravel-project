@@ -1,0 +1,91 @@
+<?php
+
+return [
+    // Navigation
+    'home' => 'الرئيسية',
+    'properties' => 'العقارات',
+    'contact' => 'اتصل بنا',
+    'about' => 'من نحن',
+    'language' => 'اللغة',
+    'arabic' => 'العربية',
+    'english' => 'English',
+
+    // Footer
+    'all_rights_reserved' => 'جميع الحقوق محفوظة.',
+
+    // Home Page
+    'welcome' => 'مرحباً بكم في موقع العقارات',
+    'welcome_subtitle' => 'ابحث عن منزل أحلامك بسهولة. تصفح قوائمنا واكتشف المنزل المثالي لك.',
+    'browse_properties' => 'تصفح العقارات ←',
+    'easy_search' => 'بحث سهل',
+    'easy_search_desc' => 'ابحث عن العقارات بسرعة باستخدام فلاتر البحث المتقدمة.',
+    'quality_listings' => 'قوائم عالية الجودة',
+    'quality_listings_desc' => 'استكشف عقارات عالية الجودة من بائعين موثوقين.',
+    'trusted_agents' => 'وكلاء موثوقون',
+    'trusted_agents_desc' => 'تواصل مع محترفين ذوي خبرة في مجال العقارات.',
+
+    // Properties Page
+    'properties_title' => 'العقارات',
+    'properties_subtitle' => 'تصفح مجموعتنا الواسعة من العقارات المتاحة للبيع والإيجار.',
+    'all_locations' => 'جميع المواقع',
+    'all_types' => 'جميع الأنواع',
+    'search' => 'بحث',
+    'view_details' => 'عرض التفاصيل ←',
+    'available' => 'متاح',
+    'sold' => 'مباع',
+    'listed' => 'نشر',
+    'no_properties_found' => 'لا توجد عقارات',
+    'no_properties_desc' => 'لم نعثر على أي عقارات تطابق معايير البحث.',
+    'reset_filters' => 'إعادة تعيين الفلاتر',
+    'beds' => 'غرف نوم',
+    'baths' => 'حمامات',
+
+    // Property Show Page
+    'gallery' => 'معرض الصور',
+    'price' => 'السعر',
+    'property_details' => 'تفاصيل العقار',
+    'bedrooms' => 'غرف النوم',
+    'bathrooms' => 'الحمامات',
+    'area' => 'المساحة',
+    'price_per_meter' => 'سعر المتر',
+    'building_age' => 'عمر المبنى',
+    'years' => 'سنة',
+    'floor' => 'الطابق',
+    'furnishing' => 'التأثيث',
+    'view_label' => 'الإطلالة',
+    'address' => 'العنوان',
+    'listed_date' => 'تاريخ النشر',
+    'description' => 'الوصف',
+    'contact_agent' => '📞 اتصل بالوكيل',
+    'primary_market' => 'سوق أولي',
+    'secondary_market' => 'سوق ثانوي',
+    'available_badge' => 'متاح',
+    'sold_badge' => 'مباع',
+
+    // Contact Page
+    'contact_title' => 'اتصل بنا',
+    'contact_subtitle' => 'لديك أسئلة؟ نحن هنا للمساعدة. تواصل معنا في أي وقت.',
+    'full_name' => 'الاسم الكامل',
+    'email_address' => 'البريد الإلكتروني',
+    'subject' => 'الموضوع',
+    'message' => 'الرسالة',
+    'send_message' => 'إرسال الرسالة ←',
+    'our_address' => 'شارع 123، نيويورك، NY 10001',
+    'our_email' => 'info@realestate.com',
+    'our_phone' => '+1 (555) 123-4567',
+
+    // About Page
+    'about_title' => 'من نحن',
+    'about_subtitle' => 'نحن منصة عقارية رائدة تهدف لمساعدة الناس في العثور على عقارات أحلامهم.',
+    'our_mission' => 'مهمتنا',
+    'our_mission_text' => 'في RealEstate، نلتزم بتقديم تجربة عقارية سلسة وشفافة وفعالة. نستخدم التكنولوجيا لربط المشترين والبائعين والوكلاء، لجعل المعاملات العقارية أسهل وأكثر سهولة من أي وقت مضى.',
+    'our_vision' => 'رؤيتنا',
+    'our_vision_text' => 'أن نصبح المنصة العقارية الأكثر ثقة وابتكاراً على مستوى العالم.',
+    'our_values' => 'قيمنا',
+    'our_values_text' => 'الشفافية، النزاهة، الابتكار، التركيز على العميل.',
+    'why_choose_us' => 'لماذا تختارنا؟',
+    'why_choose_1' => 'تشكيلة واسعة من العقارات في مواقع متعددة.',
+    'why_choose_2' => 'أدوات بحث وتصفية سهلة الاستخدام.',
+    'why_choose_3' => 'وكلاء خبراء ودعم عملاء مخصص.',
+    'why_choose_4' => 'عملية معاملات آمنة وشفافة.',
+];

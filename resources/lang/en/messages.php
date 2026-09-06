@@ -1,0 +1,91 @@
+<?php
+
+return [
+    // Navigation
+    'home' => 'Home',
+    'properties' => 'Properties',
+    'contact' => 'Contact',
+    'about' => 'About',
+    'language' => 'Language',
+    'arabic' => 'العربية',
+    'english' => 'English',
+
+    // Footer
+    'all_rights_reserved' => 'All rights reserved.',
+
+    // Home Page
+    'welcome' => 'Welcome to RealEstate',
+    'welcome_subtitle' => 'Find your dream property with ease. Browse through our listings and discover the perfect home for you.',
+    'browse_properties' => 'Browse Properties →',
+    'easy_search' => 'Easy Search',
+    'easy_search_desc' => 'Find properties quickly with our advanced search filters.',
+    'quality_listings' => 'Quality Listings',
+    'quality_listings_desc' => 'Explore high-quality properties from trusted sellers.',
+    'trusted_agents' => 'Trusted Agents',
+    'trusted_agents_desc' => 'Connect with experienced real estate professionals.',
+
+    // Properties Page
+    'properties_title' => 'Properties',
+    'properties_subtitle' => 'Browse our extensive collection of properties available for sale and rent.',
+    'all_locations' => 'All Locations',
+    'all_types' => 'All Types',
+    'search' => 'Search',
+    'view_details' => 'View Details →',
+    'available' => 'Available',
+    'sold' => 'Sold',
+    'listed' => 'Listed',
+    'no_properties_found' => 'No Properties Found',
+    'no_properties_desc' => 'We couldn\'t find any properties matching your criteria.',
+    'reset_filters' => 'Reset Filters',
+    'beds' => 'beds',
+    'baths' => 'baths',
+
+    // Property Show Page
+    'gallery' => 'Gallery',
+    'price' => 'Price',
+    'property_details' => 'Property Details',
+    'bedrooms' => 'Bedrooms',
+    'bathrooms' => 'Bathrooms',
+    'area' => 'Area',
+    'price_per_meter' => 'Price/m²',
+    'building_age' => 'Building Age',
+    'years' => 'years',
+    'floor' => 'Floor',
+    'furnishing' => 'Furnishing',
+    'view_label' => 'View',
+    'address' => 'Address',
+    'listed_date' => 'Listed',
+    'description' => 'Description',
+    'contact_agent' => '📞 Contact Agent',
+    'primary_market' => 'Primary Market',
+    'secondary_market' => 'Secondary Market',
+    'available_badge' => 'Available',
+    'sold_badge' => 'Sold',
+
+    // Contact Page
+    'contact_title' => 'Contact Us',
+    'contact_subtitle' => 'Have questions? We\'re here to help. Reach out to us anytime.',
+    'full_name' => 'Full Name',
+    'email_address' => 'Email Address',
+    'subject' => 'Subject',
+    'message' => 'Message',
+    'send_message' => 'Send Message →',
+    'our_address' => '123 Main Street, New York, NY 10001',
+    'our_email' => 'info@realestate.com',
+    'our_phone' => '+1 (555) 123-4567',
+
+    // About Page
+    'about_title' => 'About Us',
+    'about_subtitle' => 'We are a leading real estate platform dedicated to helping people find their dream properties.',
+    'our_mission' => 'Our Mission',
+    'our_mission_text' => 'At RealEstate, we are committed to providing a seamless, transparent, and efficient real estate experience. We leverage technology to connect buyers, sellers, and agents, making property transactions easier and more accessible than ever before.',
+    'our_vision' => 'Our Vision',
+    'our_vision_text' => 'To become the most trusted and innovative real estate platform globally.',
+    'our_values' => 'Our Values',
+    'our_values_text' => 'Transparency, Integrity, Innovation, and Customer-Centricity.',
+    'why_choose_us' => 'Why Choose Us?',
+    'why_choose_1' => 'Wide selection of properties across multiple locations.',
+    'why_choose_2' => 'User-friendly search and filtering tools.',
+    'why_choose_3' => 'Expert agents and dedicated customer support.',
+    'why_choose_4' => 'Secure and transparent transaction process.',
+];
