@@ -20,6 +20,8 @@ use Illuminate\Session\Middleware\StartSession;
 use Illuminate\View\Middleware\ShareErrorsFromSession;
 use Filament\View\PanelsRenderHook;
 use Illuminate\Support\Facades\Blade;
+use App\Filament\Widgets\MarketTypeChart;
+use App\Filament\Widgets\AvailabilityChart; 
 
 class AdminPanelProvider extends PanelProvider
 {
@@ -43,8 +45,10 @@ class AdminPanelProvider extends PanelProvider
             
             // ✅ Widgets الرئيسية فقط (التي تظهر في Dashboard)
             ->widgets([
-                AccountWidget::class,
-                FilamentInfoWidget::class,
+               //AccountWidget::class,
+              //  FilamentInfoWidget::class,
+                MarketTypeChart::class,
+                AvailabilityChart::class,
                 // ❌ لا تضع CustomerOverview هنا لأنه ليس في المجلد الرئيسي
             ])
             

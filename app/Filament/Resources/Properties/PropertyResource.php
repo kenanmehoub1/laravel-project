@@ -30,7 +30,7 @@ class PropertyResource extends Resource
      public static function getWidgets(): array
     {
         return [
-            CustomerOverview::class, // ✅ تسجيل Widget هنا
+          
         ];
     }
 
